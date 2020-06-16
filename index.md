@@ -96,6 +96,15 @@ Sound
 -	Because the data was chosen by me, I understood the sound better… like how as the years progressed for 
 the diary, the piano notes would rise.
 
+Static website 
+
+![image i just uploaded](staticwebsite.JPG) 
+
+- it took a while to add the content that I specifically wanted... because of the pre-existing site
+- I even ended dowloading hugo which was not necessary... 
+
+***
+
 Share the results of your explorations. Reflect on Michelle Moravec’s own cycle of exploration and what that might imply for yours.
 
 - I first did the analysis of my data on voyant because I copied and pasted the link for each of them, 
