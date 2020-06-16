@@ -115,7 +115,7 @@ realized that all the location was in the same city and country. That would defe
 around the world. Then I figure why not do the sonification and it at least worked better than the others. The music notes 
 went higher as the years for the cover progressed. It is nice tool to use when wanting to do something different than visualization.
 As I did in my previous use of applications which were mostly about visuals, I though the sonification tool helped 
-to showcase a different side to the data that I had picked. 
+to showcase a different side to the data that I had picked.  Unfortuantely, I couldn't get it to work and the snipet was shorter than I though. So, I ended up doing a static website. 
 
 - I realized this week that when you’re choosing which applications to use, not all of them will give the 
 results that you need. So, it is essential to be familiar with different types of programs so that as 
