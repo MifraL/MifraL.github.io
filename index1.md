@@ -1,7 +1,7 @@
 
 
 
-## My Quick Static Site
+## Week 6 
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
