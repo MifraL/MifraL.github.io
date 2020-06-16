@@ -3,9 +3,7 @@
 
 ## Week 6 
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
-
-***I’m going to be doing it on the Women’s Travel Diaries 
+***I’m going to be doing the analysis based on the Women’s Travel Diaries 
 https://repository.duke.edu/dc/womenstraveldiaries?f%5Bcommon_model_name_ssi%5D%5B%5D=Item
 
 Voyant 
